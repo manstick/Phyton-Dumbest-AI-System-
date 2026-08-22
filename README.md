@@ -1,2 +1,4 @@
 # Phyton-Very-Basic-AI-System-
-This phyton codecontains a very basic AI system that knows nothing but It can only responce correctly when you teach them how It is going to response it
+This phyton code contains a very basic AI system that knows nothing but it can only response correctly when you teach them how to response it.
+
+Also It doesn't need database or anyother stuff.
