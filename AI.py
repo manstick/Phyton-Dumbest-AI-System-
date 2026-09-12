@@ -22,7 +22,9 @@ def learning():
             print("Bot: I get it!")
             print("-"*30)
 learning()
-
+'''
+print(brain)
+'''
 #Explanation
 #The dictionary system of the pyhton is creating basics of this system.
 #The AI knows only two prompts and dont know anyother thing but when you write a prompt that AI dont know, AI will ask how to respond that prompt.
