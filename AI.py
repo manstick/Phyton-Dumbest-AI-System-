@@ -29,4 +29,4 @@ learning()
 #By this loop you can teach everything to AI but it is not efficient than real AI system.
 #Everytime you re-start the code it forgets every thing that you taught
 
-    
+#Written by Stickman
