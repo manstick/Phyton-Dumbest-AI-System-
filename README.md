@@ -17,6 +17,8 @@ As you can see at the  left side there is the prompt and at the other side there
 
 And every time you type a prompt that is not saved in dictionaary, AI asks "Teach me how to asnwer=" and the text that you are typing there is the new answer to that prompt it is easy.
 
+AND ALL CODE IS JUST IN 23 LINES LONG
+
 Because there is no data base it forgets every thing when you restart or terminate the code.
 
 But it is helpful to see AI system with its basics!
