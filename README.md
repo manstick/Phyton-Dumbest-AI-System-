@@ -1,4 +1,4 @@
-# Phytons The Most Dumb AI SYSTEM!
+# Pythons The Most Dumb AI SYSTEM!
 
 This Python code contains a very basic AI system that knows nothing at first, but gives accurate answers once you teach it how to respond.
 
